@@ -1,4 +1,4 @@
-package com.algo.n;
+package com.algo.jungol.n;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.algo.n;
+package com.algo.jungol.n;
 
 public class N1106 {
 
