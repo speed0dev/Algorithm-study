@@ -1,4 +1,5 @@
-# Algorithm-study
-algorithm study
+## Algorithm-study
+### 알고리즘 - 개념
 
-알고리즘 Study
+
+- (정보올림피아)[http://www.jungol.co.kr/]
