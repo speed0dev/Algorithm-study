@@ -21,8 +21,8 @@ public class N1912 {
     Room[] rooms = null;
 
     public static void main(String[] args){
-        //quest1();
-        quest2();
+        quest1();
+        //quest2();
 
 
     }
