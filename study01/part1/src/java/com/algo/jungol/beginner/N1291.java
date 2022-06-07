@@ -29,7 +29,7 @@ public class N1291 {
 
         for(int i=1; i<10; i++){
             for(int j=e_; j>=s_; j--){
-                System.out.print(j + " * " + i + " = " + (j * i) + "   ");
+                System.out.print(j + " * " + i + " =" + String.format("% 3d", (j * i)) + "   ");
             }
             System.out.println("");
         }
