@@ -13,7 +13,7 @@ public class NDrawImage {
     }
 
     private static void drawImages() {
-        String fName = "D:/AlgoProjects/Algorithm-study-dev/Algorithm-study-dev/study01/part1/output/sample.png";
+        String fName = "D:/temp/output/sample.png";
         try {
             System.out.println("drawImages() begin -----------------------");
             paint(300, 300, fName);
